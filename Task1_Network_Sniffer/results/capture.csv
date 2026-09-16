@@ -1,0 +1,5 @@
+timestamp,source_ip,destination_ip,protocol,source_port,destination_port,tcp_flags,packet_length,payload_length
+2026-09-16 16:30:19,192.168.1.10,8.8.8.8,ICMP,N/A,N/A,N/A,98,56
+2026-09-16 16:30:20,8.8.8.8,192.168.1.10,ICMP,N/A,N/A,N/A,98,56
+2026-09-16 16:30:20,192.168.1.10,8.8.8.8,ICMP,N/A,N/A,N/A,98,56
+2026-09-16 16:30:20,8.8.8.8,192.168.1.10,ICMP,N/A,N/A,N/A,98,56
